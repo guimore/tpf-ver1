@@ -1,4 +1,5 @@
 #Actualizar datos de productos, mediante su ID.import sqlite3
+
 import sqlite3
 def actualizar_producto():
     conexion = sqlite3.connect('inventario.db')

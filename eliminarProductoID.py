@@ -1,4 +1,5 @@
 #Eliminación de productos, mediante su ID.
+
 import sqlite3
 
 def eliminar_producto():

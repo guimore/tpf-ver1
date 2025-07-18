@@ -1,4 +1,5 @@
 #Visualizar datos de los productos registrados.
+
 import sqlite3
 
 def mostrar_productos():

@@ -1,4 +1,5 @@
 #Reporte de productos que tengan una cantidad igual o inferior a un límite especificado por el usuario o usuaria.
+
 import sqlite3
 
 def reporte_bajo_stock():

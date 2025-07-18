@@ -1,5 +1,6 @@
 #Búsqueda de productos, mediante su ID. De manera opcional, se puede implementar la búsqueda por los campos nombre 
 #o categoría
+
 import sqlite3
 
 def buscar_productos():

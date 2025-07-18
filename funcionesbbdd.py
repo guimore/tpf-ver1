@@ -15,6 +15,7 @@
 
 
 #create database inventario
+
 import sqlite3
 
 # Conexión (se crea el archivo si no existe)

@@ -5,8 +5,7 @@ from buscarProducto import buscar_productos
 from actualizarProductoID import actualizar_producto
 from eliminarProductoID import eliminar_producto
 from reporteProducto import reporte_bajo_stock
- 
-# Inicializar colorama
+ # Inicializar colorama
 init(autoreset=True)
 
 def menu():
