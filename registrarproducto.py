@@ -1,5 +1,4 @@
 import sqlite3
-
 def registrar_producto():
     # Conexión a la base de datos
     conexion = sqlite3.connect('inventario.db')
